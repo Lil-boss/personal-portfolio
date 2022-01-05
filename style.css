@@ -68,7 +68,7 @@ h2 {
 /* footer */
 .footer {
   height: 150px;
-  background: #96c93d;
+  background: #a6b989;
   text-align: center;
   justify-content: center;
   color: white;
@@ -77,7 +77,7 @@ h2 {
   padding: 10px;
 }
 .footer-content h2 {
-  color: #d5dfdd;
+  color: #183832;
   font-size: 30px;
 }
 
