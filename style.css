@@ -13,6 +13,7 @@ body {
 }
 .intro {
   border-left: 3px solid #4ed455;
+  line-height: 40px;
 }
 h1 {
   font-size: 50px;
