@@ -35,6 +35,10 @@ h1 {
   background-position: content;
 }
 
+.paragraph {
+  font-weight: 200;
+  line-height: 2;
+}
 /* mission */
 h2 {
   font-size: 30px;
